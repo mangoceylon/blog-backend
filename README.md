@@ -27,7 +27,7 @@ The backend of this application uses User auth and a Comment object that has CRU
 
 ## Data model
 
-```json
+```
 {
   comment: {
     title:
@@ -56,3 +56,7 @@ The backend of this application uses User auth and a Comment object that has CRU
 | POST   | `/comments`              | `comments#create`   |
 | PATCH  | `/comments/:id`          | `comments#update`   |
 | DELETE | `/comments/:id`          | `comments#destroy`  |
+
+## ERD
+
+(http://i.imgur.com/GXjE1SV.png)
