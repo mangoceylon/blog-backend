@@ -10,7 +10,7 @@ This is my personal website project. It serves as a personal site, blog, and als
 *Node
 
 ## Project Links
- - **Deployed Client:** http://mangoceylon.com
+ - **Deployed Client:** https://mangoceylon.com
  - **Deployed API:** https://radiant-eyrie-20208.herokuapp.com
  - **API Github Repo:** https://github.com/mangoceylon/blog-backend
  - **Client Repo:** https://github.com/mangoceylon/blog
