@@ -58,5 +58,6 @@ The backend of this application uses User auth and a Comment object that has CRU
 | DELETE | `/comments/:id`          | `comments#destroy`  |
 
 ## ERD
+![alt text](https://raw.githubusercontent.com/mangoceylon/blog-backend/a90016edc5f090b7bad63549a86ad4367c99151b/Screen%20Shot%202017-06-18%20at%201.24.05%20AM.png "ERD")
 
-(http://i.imgur.com/GXjE1SV.png)
+()
